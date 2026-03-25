@@ -1,5 +1,4 @@
 <p align="center">
-  <!-- Top image: replace the URL with your image -->
   <img src="https://res.cloudinary.com/dh6pldygq/image/upload/v1774466809/doom-pdf-1736872843533_o1b9fy.jpg" alt="DoomPDF Logo" width="400"/>
 </p>
 
